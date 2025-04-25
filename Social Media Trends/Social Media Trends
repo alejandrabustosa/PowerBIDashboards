@@ -18,10 +18,11 @@ y comparar el rendimiento del contenido según diferentes plataformas.
 Mi propuesta: dashboard digerible para ahorrarles tiempo en la toma de decisiones y hacerles más fácil 
 la comprensión de la data para la optimización de campañas. 
 
-Inicié el informe estudiando la data, la tabla no tenía formato así que empecé por darle formato de tabla, 
-normalizar los campos, haciendo ETL en Power Query para poder presentarla, el desafío para mi fue acotar al 
-máximo la información relevante, que los elementos fueran sencillos pero claros para que fuera de fácil comprensión 
-y sea más provechoso para el usuario final. 
+Inicié el informe estudiando la data en Power BI porque me parece una herramienta rápida y fácil de usar, 
+la tabla no tenía formato así que empecé por darle formato de tabla, normalizar los campos, haciendo ETL 
+en Power Query. El desafío para mi fue acotar al máximo la información relevante, que los elementos fueran 
+sencillos pero claros, para facilitar la comprensión al usuario final. La data fue transformada para su fácil
+análisis y su fácil uso.
 
 Mis recomendaciones finales son: optimizar las campañas de marketing en base al tipo de contenido ya que vemos 
 que los videos son el contenido favorito en la región, utilizar hashtags relacionados al negocio en este caso 
