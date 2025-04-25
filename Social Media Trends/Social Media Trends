@@ -24,6 +24,12 @@ en Power Query. El desafío para mi fue acotar al máximo la información releva
 sencillos pero claros, para facilitar la comprensión al usuario final. La data fue transformada para su fácil
 análisis y su fácil uso.
 
+En Power BI usé visualizaciones para crear un dashboard, usé un treemap para mostrar los hashtags más populares
+en función de su tamaño, más cuatro tarjetas con información relevante, un gráfico de columnas agrupadas
+y tres segmentadores. Mis gráficos fueron creados para que sea un informe dinámico y esto lo logré gracias a los 
+segmentadores. Si estas trabajando en equipo, esto facilita el trabajo entre colaboradores ya que podrán agregar 
+o modificar el dashboard para visualizar lo que necesitan.
+
 Mis recomendaciones finales son: optimizar las campañas de marketing en base al tipo de contenido ya que vemos 
 que los videos son el contenido favorito en la región, utilizar hashtags relacionados al negocio en este caso 
 fitness y con contenido de valor educando al respecto para lograr mayor engagement, según plataforma. 
