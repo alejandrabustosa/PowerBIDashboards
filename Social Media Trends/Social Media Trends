@@ -18,9 +18,6 @@ y comparar el rendimiento del contenido según diferentes plataformas.
 Mi propuesta: dashboard digerible para ahorrarles tiempo en la toma de decisiones y hacerles más fácil 
 la comprensión de la data para la optimización de campañas. 
 
-Empecé este proyecto haciéndome diferentes preguntas, tales como: En cuál plataforma y país es más probable
-que el contenido se haga viral? Cuál tipo de contenido genera más engagement? Cuáles hashtags son más populares? 
-
 Inicié el informe estudiando la data, la tabla no tenía formato así que empecé por darle formato de tabla, 
 normalizar los campos, haciendo ETL en Power Query para poder presentarla, el desafío para mi fue acotar al 
 máximo la información relevante, que los elementos fueran sencillos pero claros para que fuera de fácil comprensión 
