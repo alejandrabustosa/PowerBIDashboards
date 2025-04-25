@@ -1,3 +1,13 @@
+##Proyecto Social Media Trends and Engagement Analysis Report
+***
+Este proyecto involucra el análisis sobre el tipo de contenido más popular en diferentes plataformas de redes sociales,
+su nivel de engagement por región y hashtags relevantes para la optimización de campañas de marketing online.
+Los siguientes puntos son las preguntas que me hice para poder aportar valor desde la perspectiva del usuario final:
+
+* ¿En cuál plataforma y país es más probable que el contenido se haga viral? 
+* ¿Cuál tipo de contenido genera más engagement? 
+* ¿Cuáles hashtags son más populares? 
+
 Esta base de datos la encontré en Kaggle sobre contenido viral en redes sociales y quise plantearlo 
 como un caso real para hacerlo lo más user friendly posible y útil que es lo más importante.
 La tabla contenía 5.000 registros.
